@@ -1,4 +1,4 @@
-Learning Golang when I'm not at work.
+Learning Golang when I'm not at $daygig. 
 
 Will learn C# through osmosis at some point.
 
